@@ -1,4 +1,4 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myeongjun09&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjoowoo20&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/jjoowoo20"
   width="600"
