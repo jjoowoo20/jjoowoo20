@@ -10,9 +10,9 @@
   <img src="https://skillicons.dev/icons?i=java,nodejs,cpp,c,python" />
 </p>
 
-### 🧰 Development Tools
+### 🧰 Development & Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,figma" />
 </p>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjoowoo20&utm_content=farm">
 <img
