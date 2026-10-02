@@ -1,4 +1,14 @@
+## 🌐 Languages
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English
 
+## 💻 Programming Languages
+- ☕ Java
+- 🟨 JavaScript
+- 🐍 Python
+- 🔵 C
+- ⚡ C++
+- 🌐 HTML & CSS
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
