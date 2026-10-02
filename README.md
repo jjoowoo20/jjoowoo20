@@ -12,7 +12,7 @@
 
 ### 🧰 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,Figma" />
 </p>
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jjoowoo20&utm_content=farm">
 <img
