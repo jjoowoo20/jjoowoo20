@@ -7,7 +7,7 @@
 
 ### ⚙️ Backend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,cpp,c,python,SQL" />
 </p>
 
 ### 🧰 Development & Design Tools
